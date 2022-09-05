@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    padding: 30px;
+}
+.container{
+    background-color: white;
+    padding: 20px;
+    
+}
+.fa{
+    color: orange;
+}
